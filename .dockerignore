@@ -1,0 +1,11 @@
+node_modules
+npm-debug.log
+dockerfiles/
+docker-compose*
+.dockerignore
+.git
+.gitignore
+README.md
+.vscode
+.config/
+config/config.json
